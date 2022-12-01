@@ -2,7 +2,7 @@ programa
 {
     funcao inicio()
     {
-        escreva("ola mundo2")
+        escreva("ola mundo3")
 
     }
 }
